@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5146cd8a-e9a8-438d-8058-86ce9e05e90a" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/leet_container_with_most_water.go" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/leet_integer_to_roman.go" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -70,13 +70,25 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="leet_container_with_most_water.go" pinned="false" current-in-tab="true">
+      <file leaf-file-name="leet_container_with_most_water.go" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/leet_container_with_most_water.go">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="547">
-              <caret line="35" column="16" lean-forward="true" selection-start-line="35" selection-start-column="16" selection-end-line="35" selection-end-column="16" />
+            <state relative-caret-position="211">
+              <caret line="28" column="21" lean-forward="true" selection-start-line="28" selection-start-column="21" selection-end-line="28" selection-end-column="21" />
               <folding>
                 <element signature="e#14#39#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="leet_integer_to_roman.go" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/leet_integer_to_roman.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="428">
+              <caret line="39" column="9" lean-forward="true" selection-start-line="39" selection-start-column="9" selection-end-line="39" selection-end-column="9" />
+              <folding>
+                <element signature="e#14#26#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -121,6 +133,7 @@
         <option value="$PROJECT_DIR$/leet_atoi.go" />
         <option value="$PROJECT_DIR$/leet_palindrome_number.go" />
         <option value="$PROJECT_DIR$/leet_container_with_most_water.go" />
+        <option value="$PROJECT_DIR$/leet_integer_to_roman.go" />
       </list>
     </option>
   </component>
@@ -130,7 +143,7 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-8" />
     <option name="y" value="-8" />
     <option name="width" value="1936" />
@@ -190,7 +203,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Go Build.go build leet_container_with_most_water.go">
+  <component name="RunManager" selected="Go Build.go build leet_integer_to_roman.go">
     <configuration name="go build leet_atoi.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true">
       <module name="wnm" />
       <working_directory value="$PROJECT_DIR$/" />
@@ -207,12 +220,12 @@
       <filePath value="$PROJECT_DIR$/leet_container_with_most_water.go" />
       <directory value="$PROJECT_DIR$/" />
     </configuration>
-    <configuration name="go build leet_longest_palindromic_substring.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true">
+    <configuration name="go build leet_integer_to_roman.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true">
       <module name="wnm" />
       <working_directory value="$PROJECT_DIR$/" />
       <go_parameters value="-i" />
       <kind value="FILE" />
-      <filePath value="$PROJECT_DIR$/leet_longest_palindromic_substring.go" />
+      <filePath value="$PROJECT_DIR$/leet_integer_to_roman.go" />
       <directory value="$PROJECT_DIR$/" />
     </configuration>
     <configuration name="go build leet_palindrome_number.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true">
@@ -232,19 +245,19 @@
       <directory value="$PROJECT_DIR$/" />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Go Build.go build leet_longest_palindromic_substring.go" />
-      <item index="1" class="java.lang.String" itemvalue="Go Build.go build leet_reverse_int.go" />
-      <item index="2" class="java.lang.String" itemvalue="Go Build.go build leet_atoi.go" />
-      <item index="3" class="java.lang.String" itemvalue="Go Build.go build leet_palindrome_number.go" />
-      <item index="4" class="java.lang.String" itemvalue="Go Build.go build leet_container_with_most_water.go" />
+      <item index="0" class="java.lang.String" itemvalue="Go Build.go build leet_reverse_int.go" />
+      <item index="1" class="java.lang.String" itemvalue="Go Build.go build leet_atoi.go" />
+      <item index="2" class="java.lang.String" itemvalue="Go Build.go build leet_palindrome_number.go" />
+      <item index="3" class="java.lang.String" itemvalue="Go Build.go build leet_container_with_most_water.go" />
+      <item index="4" class="java.lang.String" itemvalue="Go Build.go build leet_integer_to_roman.go" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Go Build.go build leet_container_with_most_water.go" />
-        <item index="1" class="java.lang.String" itemvalue="Go Build.go build leet_palindrome_number.go" />
-        <item index="2" class="java.lang.String" itemvalue="Go Build.go build leet_atoi.go" />
-        <item index="3" class="java.lang.String" itemvalue="Go Build.go build leet_reverse_int.go" />
-        <item index="4" class="java.lang.String" itemvalue="Go Build.go build leet_longest_palindromic_substring.go" />
+        <item index="0" class="java.lang.String" itemvalue="Go Build.go build leet_integer_to_roman.go" />
+        <item index="1" class="java.lang.String" itemvalue="Go Build.go build leet_container_with_most_water.go" />
+        <item index="2" class="java.lang.String" itemvalue="Go Build.go build leet_palindrome_number.go" />
+        <item index="3" class="java.lang.String" itemvalue="Go Build.go build leet_atoi.go" />
+        <item index="4" class="java.lang.String" itemvalue="Go Build.go build leet_reverse_int.go" />
       </list>
     </recent_temporary>
   </component>
@@ -252,7 +265,7 @@
     <option name="remove_strategy" value="false" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.15885417" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -523,10 +536,20 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/leet_container_with_most_water.go">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="547">
-          <caret line="35" column="16" lean-forward="true" selection-start-line="35" selection-start-column="16" selection-end-line="35" selection-end-column="16" />
+        <state relative-caret-position="211">
+          <caret line="28" column="21" lean-forward="true" selection-start-line="28" selection-start-column="21" selection-end-line="28" selection-end-column="21" />
           <folding>
             <element signature="e#14#39#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leet_integer_to_roman.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="428">
+          <caret line="39" column="9" lean-forward="true" selection-start-line="39" selection-start-column="9" selection-end-line="39" selection-end-column="9" />
+          <folding>
+            <element signature="e#14#26#0" expanded="true" />
           </folding>
         </state>
       </provider>
