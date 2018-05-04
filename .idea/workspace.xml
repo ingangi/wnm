@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5146cd8a-e9a8-438d-8058-86ce9e05e90a" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/leet_3sum.go" afterPath="$PROJECT_DIR$/leet_3sum.go" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/leet_letter_combinations_of_a_phone_number.go" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -26,7 +27,7 @@
       <file leaf-file-name="leet_roman_to_integer.go" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/leet_roman_to_integer.go">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="169">
+            <state relative-caret-position="673">
               <caret line="52" column="30" lean-forward="true" selection-start-line="52" selection-start-column="30" selection-end-line="52" selection-end-column="30" />
               <folding>
                 <element signature="e#14#26#0" expanded="true" />
@@ -47,13 +48,25 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="leet_3sum.go" pinned="false" current-in-tab="true">
+      <file leaf-file-name="leet_3sum.go" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/leet_3sum.go">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="139">
-              <caret line="84" column="36" lean-forward="true" selection-start-line="84" selection-start-column="36" selection-end-line="84" selection-end-column="36" />
+            <state relative-caret-position="328">
+              <caret line="63" column="12" lean-forward="true" selection-start-line="63" selection-start-column="12" selection-end-line="63" selection-end-column="12" />
               <folding>
                 <element signature="e#14#47#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="leet_letter_combinations_of_a_phone_number.go" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/leet_letter_combinations_of_a_phone_number.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="496">
+              <caret line="50" column="14" lean-forward="true" selection-start-line="50" selection-start-column="14" selection-end-line="50" selection-end-column="14" />
+              <folding>
+                <element signature="e#14#26#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -102,7 +115,7 @@
       <file leaf-file-name="leet_integer_to_roman.go" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/leet_integer_to_roman.go">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="83">
+            <state relative-caret-position="475">
               <caret line="26" column="39" lean-forward="true" selection-start-line="26" selection-start-column="39" selection-end-line="26" selection-end-column="39" />
               <folding />
             </state>
@@ -152,6 +165,7 @@
         <option value="$PROJECT_DIR$/leet_roman_to_integer.go" />
         <option value="$PROJECT_DIR$/leet_longest_common_prefix.go" />
         <option value="$PROJECT_DIR$/leet_3sum.go" />
+        <option value="$PROJECT_DIR$/leet_letter_combinations_of_a_phone_number.go" />
       </list>
     </option>
   </component>
@@ -161,9 +175,9 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
-    <option name="x" value="654" />
-    <option name="y" value="86" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
     <option name="width" value="1936" />
     <option name="height" value="1056" />
   </component>
@@ -221,7 +235,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Go Build.go build leet_3sum.go">
+  <component name="RunManager" selected="Go Build.go build leet_letter_combinations_of_a_phone_number.go">
     <configuration name="go build leet_3sum.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true">
       <module name="wnm" />
       <working_directory value="$PROJECT_DIR$/" />
@@ -230,20 +244,20 @@
       <filePath value="$PROJECT_DIR$/leet_3sum.go" />
       <directory value="$PROJECT_DIR$/" />
     </configuration>
-    <configuration name="go build leet_container_with_most_water.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true">
-      <module name="wnm" />
-      <working_directory value="$PROJECT_DIR$/" />
-      <go_parameters value="-i" />
-      <kind value="FILE" />
-      <filePath value="$PROJECT_DIR$/leet_container_with_most_water.go" />
-      <directory value="$PROJECT_DIR$/" />
-    </configuration>
     <configuration name="go build leet_integer_to_roman.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true">
       <module name="wnm" />
       <working_directory value="$PROJECT_DIR$/" />
       <go_parameters value="-i" />
       <kind value="FILE" />
       <filePath value="$PROJECT_DIR$/leet_integer_to_roman.go" />
+      <directory value="$PROJECT_DIR$/" />
+    </configuration>
+    <configuration name="go build leet_letter_combinations_of_a_phone_number.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true">
+      <module name="wnm" />
+      <working_directory value="$PROJECT_DIR$/" />
+      <go_parameters value="-i" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/leet_letter_combinations_of_a_phone_number.go" />
       <directory value="$PROJECT_DIR$/" />
     </configuration>
     <configuration name="go build leet_longest_common_prefix.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true">
@@ -263,19 +277,19 @@
       <directory value="$PROJECT_DIR$/" />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Go Build.go build leet_container_with_most_water.go" />
-      <item index="1" class="java.lang.String" itemvalue="Go Build.go build leet_integer_to_roman.go" />
-      <item index="2" class="java.lang.String" itemvalue="Go Build.go build leet_roman_to_integer.go" />
-      <item index="3" class="java.lang.String" itemvalue="Go Build.go build leet_longest_common_prefix.go" />
-      <item index="4" class="java.lang.String" itemvalue="Go Build.go build leet_3sum.go" />
+      <item index="0" class="java.lang.String" itemvalue="Go Build.go build leet_integer_to_roman.go" />
+      <item index="1" class="java.lang.String" itemvalue="Go Build.go build leet_roman_to_integer.go" />
+      <item index="2" class="java.lang.String" itemvalue="Go Build.go build leet_longest_common_prefix.go" />
+      <item index="3" class="java.lang.String" itemvalue="Go Build.go build leet_3sum.go" />
+      <item index="4" class="java.lang.String" itemvalue="Go Build.go build leet_letter_combinations_of_a_phone_number.go" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Go Build.go build leet_3sum.go" />
-        <item index="1" class="java.lang.String" itemvalue="Go Build.go build leet_longest_common_prefix.go" />
-        <item index="2" class="java.lang.String" itemvalue="Go Build.go build leet_roman_to_integer.go" />
-        <item index="3" class="java.lang.String" itemvalue="Go Build.go build leet_integer_to_roman.go" />
-        <item index="4" class="java.lang.String" itemvalue="Go Build.go build leet_container_with_most_water.go" />
+        <item index="0" class="java.lang.String" itemvalue="Go Build.go build leet_letter_combinations_of_a_phone_number.go" />
+        <item index="1" class="java.lang.String" itemvalue="Go Build.go build leet_3sum.go" />
+        <item index="2" class="java.lang.String" itemvalue="Go Build.go build leet_longest_common_prefix.go" />
+        <item index="3" class="java.lang.String" itemvalue="Go Build.go build leet_roman_to_integer.go" />
+        <item index="4" class="java.lang.String" itemvalue="Go Build.go build leet_integer_to_roman.go" />
       </list>
     </recent_temporary>
   </component>
@@ -283,7 +297,7 @@
     <option name="remove_strategy" value="false" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.14791666" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -532,16 +546,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/leet_roman_to_integer.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="169">
-          <caret line="52" column="30" lean-forward="true" selection-start-line="52" selection-start-column="30" selection-end-line="52" selection-end-column="30" />
-          <folding>
-            <element signature="e#14#26#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/leet_longest_common_prefix.go">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
@@ -576,14 +580,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/leet_integer_to_roman.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="83">
-          <caret line="26" column="39" lean-forward="true" selection-start-line="26" selection-start-column="39" selection-end-line="26" selection-end-column="39" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://C:/Go/src/sort/sort.go">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="165">
@@ -594,10 +590,38 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/leet_3sum.go">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="139">
-          <caret line="84" column="36" lean-forward="true" selection-start-line="84" selection-start-column="36" selection-end-line="84" selection-end-column="36" />
+        <state relative-caret-position="328">
+          <caret line="63" column="12" lean-forward="true" selection-start-line="63" selection-start-column="12" selection-end-line="63" selection-end-column="12" />
           <folding>
             <element signature="e#14#47#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leet_integer_to_roman.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="475">
+          <caret line="26" column="39" lean-forward="true" selection-start-line="26" selection-start-column="39" selection-end-line="26" selection-end-column="39" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leet_roman_to_integer.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="673">
+          <caret line="52" column="30" lean-forward="true" selection-start-line="52" selection-start-column="30" selection-end-line="52" selection-end-column="30" />
+          <folding>
+            <element signature="e#14#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leet_letter_combinations_of_a_phone_number.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="496">
+          <caret line="50" column="14" lean-forward="true" selection-start-line="50" selection-start-column="14" selection-end-line="50" selection-end-column="14" />
+          <folding>
+            <element signature="e#14#26#0" expanded="true" />
           </folding>
         </state>
       </provider>
