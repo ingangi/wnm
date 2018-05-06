@@ -31,6 +31,16 @@ import "fmt"
 //Input: "{[]}"
 //Output: true
 
+func popS(slc *[]string) string {
+	if len(*slc) == 0 {
+		return ""
+	}
+
+	c := (*slc)[len(*slc)-1]
+	*slc = (*slc)[0:len(*slc)-1]
+	return c
+}
+
 // 左括号入栈  右括号出栈
 func isValid(s string) bool {
 	if len(s) == 0 || len(s) % 2 != 0 {
@@ -48,20 +58,17 @@ func isValid(s string) bool {
 			stack = append(stack, string(c))
 
 		case ")":
-			if stack[len(stack) - 1] != "(" {
+			if popS(&stack) != "(" {
 				return false
 			}
-			stack = stack[0:len(stack)-1]
 		case "]":
-			if stack[len(stack) - 1] != "[" {
+			if popS(&stack) != "[" {
 				return false
 			}
-			stack = stack[0:len(stack)-1]
 		case "}":
-			if stack[len(stack) - 1] != "{" {
+			if popS(&stack) != "{" {
 				return false
 			}
-			stack = stack[0:len(stack)-1]
 		default:
 			return false
 
@@ -71,6 +78,6 @@ func isValid(s string) bool {
 }
 
 func main()  {
-	s := "{[{(())}]}"
+	s := "[{({[]})}]"
 	fmt.Println(s, "isValid:", isValid(s))
 }
