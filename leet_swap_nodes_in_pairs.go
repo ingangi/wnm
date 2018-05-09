@@ -57,7 +57,6 @@ func insertNode(d int, head **Node) {
 func swapNodes(l *Node) (res *Node) {
 
 	if l != nil && l.next != nil {
-		fmt.Println("swap", l.data, l.next.data)
 		res = l.next
 		p1 := l
 		p2 := l.next
@@ -80,7 +79,7 @@ func main() {
 	insertNode(4, &l1)
 	insertNode(5, &l1)
 	insertNode(6, &l1)
-	printList(l1)
+	//printList(l1)
 
 	printList(swapNodes(l1))
 }
