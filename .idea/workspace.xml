@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5146cd8a-e9a8-438d-8058-86ce9e05e90a" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/leet_remove_duplicates_from_sorted_array.go" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/leet_remove_element.go" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -98,7 +98,7 @@
         <entry file="file://$PROJECT_DIR$/leet_reverse_nodes_in_k-group.go">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="189">
-              <caret line="72" column="10" lean-forward="true" selection-start-line="72" selection-start-column="10" selection-end-line="72" selection-end-column="10" />
+              <caret line="72" column="10" lean-forward="false" selection-start-line="72" selection-start-column="10" selection-end-line="72" selection-end-column="10" />
               <folding>
                 <element signature="e#14#26#0" expanded="true" />
               </folding>
@@ -106,11 +106,23 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="leet_remove_duplicates_from_sorted_array.go" pinned="false" current-in-tab="true">
+      <file leaf-file-name="leet_remove_duplicates_from_sorted_array.go" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/leet_remove_duplicates_from_sorted_array.go">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="256">
-              <caret line="29" column="15" lean-forward="true" selection-start-line="29" selection-start-column="15" selection-end-line="29" selection-end-column="15" />
+            <state relative-caret-position="319">
+              <caret line="29" column="15" lean-forward="false" selection-start-line="29" selection-start-column="15" selection-end-line="29" selection-end-column="15" />
+              <folding>
+                <element signature="e#14#26#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="leet_remove_element.go" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/leet_remove_element.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="252">
+              <caret line="30" column="0" lean-forward="true" selection-start-line="30" selection-start-column="0" selection-end-line="30" selection-end-column="0" />
               <folding>
                 <element signature="e#14#26#0" expanded="true" />
               </folding>
@@ -134,6 +146,7 @@
       <find>output</find>
       <find>slc</find>
       <find>k</find>
+      <find>max</find>
     </findStrings>
     <replaceStrings>
       <replace>m</replace>
@@ -174,6 +187,7 @@
         <option value="$PROJECT_DIR$/leet_swap_nodes_in_pairs.go" />
         <option value="$PROJECT_DIR$/leet_reverse_nodes_in_k-group.go" />
         <option value="$PROJECT_DIR$/leet_remove_duplicates_from_sorted_array.go" />
+        <option value="$PROJECT_DIR$/leet_remove_element.go" />
       </list>
     </option>
   </component>
@@ -183,7 +197,7 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="848" />
     <option name="y" value="-21" />
     <option name="width" value="1936" />
@@ -244,15 +258,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Go Build.go build leet_remove_duplicates_from_sorted_array.go">
-    <configuration name="go build leet_generate_parentheses.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true">
-      <module name="wnm" />
-      <working_directory value="$PROJECT_DIR$/" />
-      <go_parameters value="-i" />
-      <kind value="FILE" />
-      <filePath value="$PROJECT_DIR$/leet_generate_parentheses.go" />
-      <directory value="$PROJECT_DIR$/" />
-    </configuration>
+  <component name="RunManager" selected="Go Build.go build leet_remove_element.go">
     <configuration name="go build leet_merge_k_sorted_lists.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true">
       <module name="wnm" />
       <working_directory value="$PROJECT_DIR$/" />
@@ -267,6 +273,14 @@
       <go_parameters value="-i" />
       <kind value="FILE" />
       <filePath value="$PROJECT_DIR$/leet_remove_duplicates_from_sorted_array.go" />
+      <directory value="$PROJECT_DIR$/" />
+    </configuration>
+    <configuration name="go build leet_remove_element.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true">
+      <module name="wnm" />
+      <working_directory value="$PROJECT_DIR$/" />
+      <go_parameters value="-i" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/leet_remove_element.go" />
       <directory value="$PROJECT_DIR$/" />
     </configuration>
     <configuration name="go build leet_reverse_nodes_in_k-group.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true">
@@ -286,19 +300,19 @@
       <directory value="$PROJECT_DIR$/" />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Go Build.go build leet_generate_parentheses.go" />
-      <item index="1" class="java.lang.String" itemvalue="Go Build.go build leet_merge_k_sorted_lists.go" />
-      <item index="2" class="java.lang.String" itemvalue="Go Build.go build leet_swap_nodes_in_pairs.go" />
-      <item index="3" class="java.lang.String" itemvalue="Go Build.go build leet_reverse_nodes_in_k-group.go" />
-      <item index="4" class="java.lang.String" itemvalue="Go Build.go build leet_remove_duplicates_from_sorted_array.go" />
+      <item index="0" class="java.lang.String" itemvalue="Go Build.go build leet_merge_k_sorted_lists.go" />
+      <item index="1" class="java.lang.String" itemvalue="Go Build.go build leet_swap_nodes_in_pairs.go" />
+      <item index="2" class="java.lang.String" itemvalue="Go Build.go build leet_reverse_nodes_in_k-group.go" />
+      <item index="3" class="java.lang.String" itemvalue="Go Build.go build leet_remove_duplicates_from_sorted_array.go" />
+      <item index="4" class="java.lang.String" itemvalue="Go Build.go build leet_remove_element.go" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Go Build.go build leet_remove_duplicates_from_sorted_array.go" />
-        <item index="1" class="java.lang.String" itemvalue="Go Build.go build leet_reverse_nodes_in_k-group.go" />
-        <item index="2" class="java.lang.String" itemvalue="Go Build.go build leet_swap_nodes_in_pairs.go" />
-        <item index="3" class="java.lang.String" itemvalue="Go Build.go build leet_merge_k_sorted_lists.go" />
-        <item index="4" class="java.lang.String" itemvalue="Go Build.go build leet_generate_parentheses.go" />
+        <item index="0" class="java.lang.String" itemvalue="Go Build.go build leet_remove_element.go" />
+        <item index="1" class="java.lang.String" itemvalue="Go Build.go build leet_remove_duplicates_from_sorted_array.go" />
+        <item index="2" class="java.lang.String" itemvalue="Go Build.go build leet_reverse_nodes_in_k-group.go" />
+        <item index="3" class="java.lang.String" itemvalue="Go Build.go build leet_swap_nodes_in_pairs.go" />
+        <item index="4" class="java.lang.String" itemvalue="Go Build.go build leet_merge_k_sorted_lists.go" />
       </list>
     </recent_temporary>
   </component>
@@ -306,7 +320,7 @@
     <option name="remove_strategy" value="false" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.14739583" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -339,16 +353,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/leet_longest_common_prefix.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="754">
-          <caret line="29" column="0" lean-forward="true" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
-          <folding>
-            <element signature="e#14#26#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/leet_3sum.go">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1300">
@@ -738,7 +742,7 @@
     <entry file="file://$PROJECT_DIR$/leet_reverse_nodes_in_k-group.go">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="189">
-          <caret line="72" column="10" lean-forward="true" selection-start-line="72" selection-start-column="10" selection-end-line="72" selection-end-column="10" />
+          <caret line="72" column="10" lean-forward="false" selection-start-line="72" selection-start-column="10" selection-end-line="72" selection-end-column="10" />
           <folding>
             <element signature="e#14#26#0" expanded="true" />
           </folding>
@@ -747,8 +751,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/leet_remove_duplicates_from_sorted_array.go">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="256">
-          <caret line="29" column="15" lean-forward="true" selection-start-line="29" selection-start-column="15" selection-end-line="29" selection-end-column="15" />
+        <state relative-caret-position="319">
+          <caret line="29" column="15" lean-forward="false" selection-start-line="29" selection-start-column="15" selection-end-line="29" selection-end-column="15" />
+          <folding>
+            <element signature="e#14#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leet_remove_element.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="30" column="0" lean-forward="true" selection-start-line="30" selection-start-column="0" selection-end-line="30" selection-end-column="0" />
           <folding>
             <element signature="e#14#26#0" expanded="true" />
           </folding>
