@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5146cd8a-e9a8-438d-8058-86ce9e05e90a" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/leet_rotate_list.go" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/leet_unique_path.go" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -29,18 +29,30 @@
           <file leaf-file-name="leet_two_sum.go" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/leet_two_sum.go">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="451">
-                  <caret line="34" column="16" lean-forward="true" selection-start-line="34" selection-start-column="16" selection-end-line="34" selection-end-column="16" />
+                <state relative-caret-position="714">
+                  <caret line="34" column="16" lean-forward="false" selection-start-line="34" selection-start-column="16" selection-end-line="34" selection-end-column="16" />
                   <folding />
                 </state>
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="leet_rotate_list.go" pinned="false" current-in-tab="true">
+          <file leaf-file-name="leet_rotate_list.go" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/leet_rotate_list.go">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="1953">
-                  <caret line="93" column="22" lean-forward="true" selection-start-line="93" selection-start-column="22" selection-end-line="93" selection-end-column="22" />
+                <state relative-caret-position="651">
+                  <caret line="61" column="13" lean-forward="true" selection-start-line="61" selection-start-column="13" selection-end-line="61" selection-end-column="13" />
+                  <folding>
+                    <element signature="e#14#26#0" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="leet_unique_path.go" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/leet_unique_path.go">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="441">
+                  <caret line="33" column="19" lean-forward="true" selection-start-line="33" selection-start-column="19" selection-end-line="33" selection-end-column="19" />
                   <folding>
                     <element signature="e#14#26#0" expanded="true" />
                   </folding>
@@ -91,8 +103,8 @@
           <file leaf-file-name="leet_maximum_subarray.go" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/leet_maximum_subarray.go">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="189">
-                  <caret line="9" column="10" lean-forward="true" selection-start-line="9" selection-start-column="10" selection-end-line="9" selection-end-column="10" />
+                <state relative-caret-position="126">
+                  <caret line="9" column="10" lean-forward="false" selection-start-line="9" selection-start-column="10" selection-end-line="9" selection-end-column="10" />
                   <folding>
                     <element signature="e#14#39#0" expanded="true" />
                   </folding>
@@ -103,12 +115,12 @@
         </leaf>
       </split-first>
       <split-second>
-        <leaf>
+        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
           <file leaf-file-name="leet_valid_parentheses.go" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/leet_valid_parentheses.go">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="248">
-                  <caret line="58" column="0" lean-forward="true" selection-start-line="58" selection-start-column="0" selection-end-line="58" selection-end-column="0" />
+                <state relative-caret-position="1218">
+                  <caret line="58" column="0" lean-forward="false" selection-start-line="58" selection-start-column="0" selection-end-line="58" selection-end-column="0" />
                   <folding />
                 </state>
               </provider>
@@ -117,8 +129,8 @@
           <file leaf-file-name="leet_merge_k_sorted_lists.go" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/leet_merge_k_sorted_lists.go">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="462">
-                  <caret line="115" column="14" lean-forward="true" selection-start-line="115" selection-start-column="14" selection-end-line="115" selection-end-column="14" />
+                <state relative-caret-position="2415">
+                  <caret line="115" column="14" lean-forward="false" selection-start-line="115" selection-start-column="14" selection-end-line="115" selection-end-column="14" />
                   <folding />
                 </state>
               </provider>
@@ -198,6 +210,7 @@
         <option value="$PROJECT_DIR$/leet_pow.go" />
         <option value="$PROJECT_DIR$/leet_maximum_subarray.go" />
         <option value="$PROJECT_DIR$/leet_rotate_list.go" />
+        <option value="$PROJECT_DIR$/leet_unique_path.go" />
       </list>
     </option>
   </component>
@@ -207,7 +220,7 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-8" />
     <option name="y" value="-8" />
     <option name="width" value="960" />
@@ -244,15 +257,15 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scratches" />
       <pane id="Scope" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="settings.editor.selected.configurable" value="go.sdk" />
     <property name="configurable.Global.GOPATH.is.expanded" value="true" />
     <property name="configurable.Project.GOPATH.is.expanded" value="true" />
-    <property name="last_opened_file_path" value="$USER_HOME$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="DefaultGoTemplateProperty" value="Go File" />
     <property name="configurable.Module.GOPATH.is.expanded" value="false" />
   </component>
@@ -268,7 +281,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Go Build.go build leet_rotate_list.go">
+  <component name="RunManager" selected="Go Build.go build leet_unique_path.go">
     <configuration name="go build leet_group_anagrams.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true">
       <module name="wnm" />
       <working_directory value="$PROJECT_DIR$/" />
@@ -293,14 +306,6 @@
       <filePath value="$PROJECT_DIR$/leet_pow.go" />
       <directory value="$PROJECT_DIR$/" />
     </configuration>
-    <configuration name="go build leet_remove_duplicates_from_sorted_array.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true">
-      <module name="wnm" />
-      <working_directory value="$PROJECT_DIR$/" />
-      <go_parameters value="-i" />
-      <kind value="FILE" />
-      <filePath value="$PROJECT_DIR$/leet_remove_duplicates_from_sorted_array.go" />
-      <directory value="$PROJECT_DIR$/" />
-    </configuration>
     <configuration name="go build leet_rotate_list.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true">
       <module name="wnm" />
       <working_directory value="$PROJECT_DIR$/" />
@@ -309,20 +314,28 @@
       <filePath value="$PROJECT_DIR$/leet_rotate_list.go" />
       <directory value="$PROJECT_DIR$/" />
     </configuration>
+    <configuration name="go build leet_unique_path.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true">
+      <module name="wnm" />
+      <working_directory value="$PROJECT_DIR$/" />
+      <go_parameters value="-i" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/leet_unique_path.go" />
+      <directory value="$PROJECT_DIR$/" />
+    </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Go Build.go build leet_remove_duplicates_from_sorted_array.go" />
-      <item index="1" class="java.lang.String" itemvalue="Go Build.go build leet_group_anagrams.go" />
-      <item index="2" class="java.lang.String" itemvalue="Go Build.go build leet_pow.go" />
-      <item index="3" class="java.lang.String" itemvalue="Go Build.go build leet_maximum_subarray.go" />
-      <item index="4" class="java.lang.String" itemvalue="Go Build.go build leet_rotate_list.go" />
+      <item index="0" class="java.lang.String" itemvalue="Go Build.go build leet_group_anagrams.go" />
+      <item index="1" class="java.lang.String" itemvalue="Go Build.go build leet_pow.go" />
+      <item index="2" class="java.lang.String" itemvalue="Go Build.go build leet_maximum_subarray.go" />
+      <item index="3" class="java.lang.String" itemvalue="Go Build.go build leet_rotate_list.go" />
+      <item index="4" class="java.lang.String" itemvalue="Go Build.go build leet_unique_path.go" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Go Build.go build leet_rotate_list.go" />
-        <item index="1" class="java.lang.String" itemvalue="Go Build.go build leet_maximum_subarray.go" />
-        <item index="2" class="java.lang.String" itemvalue="Go Build.go build leet_pow.go" />
-        <item index="3" class="java.lang.String" itemvalue="Go Build.go build leet_group_anagrams.go" />
-        <item index="4" class="java.lang.String" itemvalue="Go Build.go build leet_remove_duplicates_from_sorted_array.go" />
+        <item index="0" class="java.lang.String" itemvalue="Go Build.go build leet_unique_path.go" />
+        <item index="1" class="java.lang.String" itemvalue="Go Build.go build leet_rotate_list.go" />
+        <item index="2" class="java.lang.String" itemvalue="Go Build.go build leet_maximum_subarray.go" />
+        <item index="3" class="java.lang.String" itemvalue="Go Build.go build leet_pow.go" />
+        <item index="4" class="java.lang.String" itemvalue="Go Build.go build leet_group_anagrams.go" />
       </list>
     </recent_temporary>
   </component>
@@ -330,15 +343,15 @@
     <option name="remove_strategy" value="false" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.14375" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18697916" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.14375" sideWeight="0.50208336" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3280255" sideWeight="0.49791667" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3271795" sideWeight="0.49791667" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
@@ -365,13 +378,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/sort.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/list.go">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="63">
@@ -684,8 +690,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/leet_maximum_subarray.go">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
-          <caret line="9" column="10" lean-forward="true" selection-start-line="9" selection-start-column="10" selection-end-line="9" selection-end-column="10" />
+        <state relative-caret-position="126">
+          <caret line="9" column="10" lean-forward="false" selection-start-line="9" selection-start-column="10" selection-end-line="9" selection-end-column="10" />
           <folding>
             <element signature="e#14#39#0" expanded="true" />
           </folding>
@@ -694,32 +700,42 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/leet_valid_parentheses.go">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="248">
-          <caret line="58" column="0" lean-forward="true" selection-start-line="58" selection-start-column="0" selection-end-line="58" selection-end-column="0" />
+        <state relative-caret-position="1218">
+          <caret line="58" column="0" lean-forward="false" selection-start-line="58" selection-start-column="0" selection-end-line="58" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/leet_two_sum.go">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="451">
-          <caret line="34" column="16" lean-forward="true" selection-start-line="34" selection-start-column="16" selection-end-line="34" selection-end-column="16" />
+        <state relative-caret-position="714">
+          <caret line="34" column="16" lean-forward="false" selection-start-line="34" selection-start-column="16" selection-end-line="34" selection-end-column="16" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/leet_merge_k_sorted_lists.go">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="462">
-          <caret line="115" column="14" lean-forward="true" selection-start-line="115" selection-start-column="14" selection-end-line="115" selection-end-column="14" />
+        <state relative-caret-position="2415">
+          <caret line="115" column="14" lean-forward="false" selection-start-line="115" selection-start-column="14" selection-end-line="115" selection-end-column="14" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/leet_rotate_list.go">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1953">
-          <caret line="93" column="22" lean-forward="true" selection-start-line="93" selection-start-column="22" selection-end-line="93" selection-end-column="22" />
+        <state relative-caret-position="651">
+          <caret line="61" column="13" lean-forward="true" selection-start-line="61" selection-start-column="13" selection-end-line="61" selection-end-column="13" />
+          <folding>
+            <element signature="e#14#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leet_unique_path.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="441">
+          <caret line="33" column="19" lean-forward="true" selection-start-line="33" selection-start-column="19" selection-end-line="33" selection-end-column="19" />
           <folding>
             <element signature="e#14#26#0" expanded="true" />
           </folding>
