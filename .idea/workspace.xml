@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5146cd8a-e9a8-438d-8058-86ce9e05e90a" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/leet_plus_one.go" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/leet_sqrt.go" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -23,7 +23,7 @@
     <fileColor scope="Non-Project Files (Material Palenight)" color="2f2e43" />
   </component>
   <component name="FileEditorManager">
-    <splitter split-orientation="horizontal" split-proportion="0.5303123">
+    <splitter split-orientation="horizontal" split-proportion="0.31005767">
       <split-first>
         <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
           <file leaf-file-name="leet_two_sum.go" pinned="false" current-in-tab="false">
@@ -51,8 +51,8 @@
           <file leaf-file-name="leet_unique_path.go" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/leet_unique_path.go">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="693">
-                  <caret line="33" column="19" lean-forward="false" selection-start-line="33" selection-start-column="19" selection-end-line="33" selection-end-column="19" />
+                <state relative-caret-position="214">
+                  <caret line="25" column="12" lean-forward="true" selection-start-line="25" selection-start-column="12" selection-end-line="25" selection-end-column="12" />
                   <folding>
                     <element signature="e#14#26#0" expanded="true" />
                   </folding>
@@ -136,13 +136,25 @@
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="leet_plus_one.go" pinned="false" current-in-tab="true">
+          <file leaf-file-name="leet_plus_one.go" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/leet_plus_one.go">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="315">
-                  <caret line="15" column="0" lean-forward="true" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+                <state relative-caret-position="462">
+                  <caret line="25" column="21" lean-forward="true" selection-start-line="25" selection-start-column="21" selection-end-line="25" selection-end-column="21" />
                   <folding>
                     <element signature="e#14#31#0" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="leet_sqrt.go" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/leet_sqrt.go">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="357">
+                  <caret line="29" column="19" lean-forward="true" selection-start-line="29" selection-start-column="19" selection-end-line="29" selection-end-column="19" />
+                  <folding>
+                    <element signature="e#14#26#0" expanded="true" />
                   </folding>
                 </state>
               </provider>
@@ -234,6 +246,7 @@
         <option value="$PROJECT_DIR$/leet_rotate_list.go" />
         <option value="$PROJECT_DIR$/leet_unique_path.go" />
         <option value="$PROJECT_DIR$/leet_plus_one.go" />
+        <option value="$PROJECT_DIR$/leet_sqrt.go" />
       </list>
     </option>
   </component>
@@ -243,7 +256,7 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="841" />
     <option name="y" value="76" />
     <option name="width" value="960" />
@@ -304,7 +317,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Go Build.go build leet_plus_one.go">
+  <component name="RunManager" selected="Go Build.go build leet_sqrt.go">
     <configuration name="go build leet_maximum_subarray.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true">
       <module name="wnm" />
       <working_directory value="$PROJECT_DIR$/" />
@@ -321,20 +334,20 @@
       <filePath value="$PROJECT_DIR$/leet_plus_one.go" />
       <directory value="$PROJECT_DIR$/" />
     </configuration>
-    <configuration name="go build leet_pow.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true">
-      <module name="wnm" />
-      <working_directory value="$PROJECT_DIR$/" />
-      <go_parameters value="-i" />
-      <kind value="FILE" />
-      <filePath value="$PROJECT_DIR$/leet_pow.go" />
-      <directory value="$PROJECT_DIR$/" />
-    </configuration>
     <configuration name="go build leet_rotate_list.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true">
       <module name="wnm" />
       <working_directory value="$PROJECT_DIR$/" />
       <go_parameters value="-i" />
       <kind value="FILE" />
       <filePath value="$PROJECT_DIR$/leet_rotate_list.go" />
+      <directory value="$PROJECT_DIR$/" />
+    </configuration>
+    <configuration name="go build leet_sqrt.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true">
+      <module name="wnm" />
+      <working_directory value="$PROJECT_DIR$/" />
+      <go_parameters value="-i" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/leet_sqrt.go" />
       <directory value="$PROJECT_DIR$/" />
     </configuration>
     <configuration name="go build leet_unique_path.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true">
@@ -346,19 +359,19 @@
       <directory value="$PROJECT_DIR$/" />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Go Build.go build leet_pow.go" />
-      <item index="1" class="java.lang.String" itemvalue="Go Build.go build leet_maximum_subarray.go" />
-      <item index="2" class="java.lang.String" itemvalue="Go Build.go build leet_rotate_list.go" />
-      <item index="3" class="java.lang.String" itemvalue="Go Build.go build leet_unique_path.go" />
-      <item index="4" class="java.lang.String" itemvalue="Go Build.go build leet_plus_one.go" />
+      <item index="0" class="java.lang.String" itemvalue="Go Build.go build leet_maximum_subarray.go" />
+      <item index="1" class="java.lang.String" itemvalue="Go Build.go build leet_rotate_list.go" />
+      <item index="2" class="java.lang.String" itemvalue="Go Build.go build leet_unique_path.go" />
+      <item index="3" class="java.lang.String" itemvalue="Go Build.go build leet_plus_one.go" />
+      <item index="4" class="java.lang.String" itemvalue="Go Build.go build leet_sqrt.go" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Go Build.go build leet_plus_one.go" />
-        <item index="1" class="java.lang.String" itemvalue="Go Build.go build leet_unique_path.go" />
-        <item index="2" class="java.lang.String" itemvalue="Go Build.go build leet_rotate_list.go" />
-        <item index="3" class="java.lang.String" itemvalue="Go Build.go build leet_maximum_subarray.go" />
-        <item index="4" class="java.lang.String" itemvalue="Go Build.go build leet_pow.go" />
+        <item index="0" class="java.lang.String" itemvalue="Go Build.go build leet_sqrt.go" />
+        <item index="1" class="java.lang.String" itemvalue="Go Build.go build leet_plus_one.go" />
+        <item index="2" class="java.lang.String" itemvalue="Go Build.go build leet_unique_path.go" />
+        <item index="3" class="java.lang.String" itemvalue="Go Build.go build leet_rotate_list.go" />
+        <item index="4" class="java.lang.String" itemvalue="Go Build.go build leet_maximum_subarray.go" />
       </list>
     </recent_temporary>
   </component>
@@ -366,7 +379,7 @@
     <option name="remove_strategy" value="false" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18697916" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -401,13 +414,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/list.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1617">
-          <caret line="79" column="40" lean-forward="true" selection-start-line="79" selection-start-column="40" selection-end-line="79" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/sort.go">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="714">
@@ -521,7 +527,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="42">
           <caret line="32" column="21" lean-forward="false" selection-start-line="32" selection-start-column="21" selection-end-line="32" selection-end-column="21" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -609,9 +614,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="87">
           <caret line="21" column="48" lean-forward="false" selection-start-line="21" selection-start-column="48" selection-end-line="21" selection-end-column="48" />
-          <folding>
-            <element signature="e#14#26#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -633,7 +635,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-774">
           <caret line="16" column="18" lean-forward="false" selection-start-line="16" selection-start-column="18" selection-end-line="16" selection-end-column="18" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -726,24 +727,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/leet_unique_path.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="693">
-          <caret line="33" column="19" lean-forward="false" selection-start-line="33" selection-start-column="19" selection-end-line="33" selection-end-column="19" />
-          <folding>
-            <element signature="e#14#26#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/AppData/Local/Temp/Rar$DIa0.843/srvbase.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/Rar$DIa0.843/srvbase.go" />
     <entry file="file://$PROJECT_DIR$/leet_merge_k_sorted_lists.go">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="357">
@@ -762,10 +746,30 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/leet_plus_one.go">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="15" column="0" lean-forward="true" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+        <state relative-caret-position="462">
+          <caret line="25" column="21" lean-forward="true" selection-start-line="25" selection-start-column="21" selection-end-line="25" selection-end-column="21" />
           <folding>
             <element signature="e#14#31#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leet_unique_path.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="214">
+          <caret line="25" column="12" lean-forward="true" selection-start-line="25" selection-start-column="12" selection-end-line="25" selection-end-column="12" />
+          <folding>
+            <element signature="e#14#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leet_sqrt.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="29" column="19" lean-forward="true" selection-start-line="29" selection-start-column="19" selection-end-line="29" selection-end-column="19" />
+          <folding>
+            <element signature="e#14#26#0" expanded="true" />
           </folding>
         </state>
       </provider>
