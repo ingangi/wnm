@@ -96,10 +96,6 @@ func main() {
 	insertNode(5, &l1)
 	insertNode(6, &l1)
 	insertNode(6, &l1)
-	//printList(l1)
-
-	fmt.Println(l1)
 	removeDuplicatesFromSortedList2(&l1)
-	fmt.Println(l1)
 	printList(l1)
 }
